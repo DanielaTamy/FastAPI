@@ -30,6 +30,6 @@ python --version
 ```
 Clone o repositório 
 ```bash
-git clone https://github.com/SEU_USUARIO/fastapi-projeto.git
-cd fastapi-projeto
+git clone https://github.com/DanielaTamy/FastAPI.git
+cd fast_zero
 ```
