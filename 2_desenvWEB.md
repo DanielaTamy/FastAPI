@@ -26,6 +26,7 @@ aplicações que funcionam em rede
 ## Pydantic
 - uma camada de documentação, via OpenAPI
 - validação dos modelos de entrada e saída da API
+-  schemas 
 
 criar um novo arquivo na pasta fast_zero
 ```bash
